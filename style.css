@@ -3,6 +3,7 @@ html, body {
 }
 canvas {
   display: inline-block;
+  align-items: middle;
   justify-content: middle ;
 }
 
