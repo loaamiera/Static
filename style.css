@@ -2,7 +2,7 @@ html, body {
   margin: auto;
 }
 canvas {
-  display: inline-block;
+  display: inline-flexblock;
   float: center ;
   justify-content: center ;
 }
