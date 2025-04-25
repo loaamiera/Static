@@ -4,5 +4,6 @@ html, body {
 canvas {
   display: inline-block;
   float: center ; 
+  margin: auto;
 }
 
