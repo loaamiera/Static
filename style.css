@@ -1,6 +1,12 @@
 html, body {
   margin: auto;
 }
+
+main{
+  display: inline-flex;
+  float: center ;
+  justify-content: center ;
+}
 canvas {
   display: inline-flexblock;
   float: center ;
